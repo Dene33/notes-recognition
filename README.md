@@ -93,6 +93,3 @@
 <p>&nbsp;</p>
 
 <p>ETH-wallet:&nbsp;0x136f0a3d6f3Db9db3b742153a396B8b47721Bb24</p>
-
-
-<p>ETH-wallet:&nbsp;0x136f0a3d6f3Db9db3b742153a396B8b47721Bb24</p>
