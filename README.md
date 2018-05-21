@@ -78,4 +78,21 @@
 
 <p>Ссылка на .tfrecord обученной&nbsp;модели:&nbsp;<a href="https://drive.google.com/file/d/1wd716Lg6Uz5Vxr6x-vEeoLKMb09YapPL/view?usp=sharing">https://drive.google.com/file/d/1wd716Lg6Uz5Vxr6x-vEeoLKMb09YapPL/view?usp=sharing</a></p>
 
+<h3><strong>TODO</strong></h3>
+
+<p>1. Экспорт SaveModel для Tensorflow</p>
+
+<p>2. Конвертация в MIDI</p>
+
+<p>3. Сегментация листа на такты и обратная сборка всей структуры после прохода распознаванием по каждому сегменту</p>
+
+<p>4. Поднять Tensorflow Serving</p>
+
+<p>5. Разметка датасета под распознавание фотографий и более широкого спектра символов</p>
+
+<p>&nbsp;</p>
+
+<p>ETH-wallet:&nbsp;0x136f0a3d6f3Db9db3b742153a396B8b47721Bb24</p>
+
+
 <p>ETH-wallet:&nbsp;0x136f0a3d6f3Db9db3b742153a396B8b47721Bb24</p>
