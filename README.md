@@ -1,5 +1,7 @@
 <h1>Recognition of music sheet and transcribing it into MIDI</h1>
 
+![Alt Text](https://i.imgur.com/4my6Ar7.gif)
+
 <h3><strong>Подход к распознаванию нот:</strong></h3>
 
 <p>После определённого количества безуспешных&nbsp;попыток написания проекта&nbsp;с нуля и проверки разных подходов, наткнулся на следующую <a href="https://ismir2017.smcnus.org/wp-content/uploads/2017/10/34_Paper.pdf">статью</a>:&nbsp; В ней описан подход к распознаванию нот с помощью связки&nbsp;Convolutional и&nbsp;Recurrent сетей. Этот подход используется, в частности, для распознавания текста. Поэтому я решил взять одну из реализаций Optical Character Recognition и обучить сеть на базе нот.&nbsp;</p>
