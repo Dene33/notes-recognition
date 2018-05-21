@@ -50,6 +50,8 @@
 <p>aocr test --visualize ПУТЬ/К/notesTest.tfrecords --log-path ./log/log.log --max-width 1000 --max-height 61 --max-prediction 36 --full-ascii&nbsp;--model-dir ПУТЬ/К/checkpoints</p>
 </blockquote>
 
+<p>Небольшое примечание. Распакованные checkpoints.zip содержат папку checkpointsDL - путь нужно указывать к ней.</p>
+
 <p>Наблюдаем за процессом. А потом смотрим на результат в папке log. Там будут находиться папки для каждой картинки, для которой было проведено распознавание. В каждой папке файл word.txt где первая строка - предсказанный результат, вторая - ground-truth Также в папке находится гифка, показывающая процесс работы нейросети.</p>
 
 <p>Для перевода результата&nbsp;в читаемый формат (переименование папок и файлов), кидаем <a href="https://raw.githubusercontent.com/Dene33/notes-recognition/master/python-util-scripts/outRenamer.py">питоновский&nbsp;скрипт</a> в папку out и запускаем.</p>
