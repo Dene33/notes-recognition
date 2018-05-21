@@ -40,9 +40,9 @@
 
 <p>Устанавливаем&nbsp;<a href="https://github.com/emedvedev/attention-ocr">https://github.com/emedvedev/attention-ocr</a></p>
 
-<p>Качаем модель тестовой выборки:<a href="https://github.com/Dene33/notes-recognition/blob/master/notesTest.tfrecords?raw=true">&nbsp;https://github.com/Dene33/notes-recognition/blob/master/notesTest.tfrecords?raw=true</a></p>
+<p>Качаем тестовую&nbsp;выборку:<a href="https://github.com/Dene33/notes-recognition/blob/master/notesTest.tfrecords?raw=true">&nbsp;https://github.com/Dene33/notes-recognition/blob/master/notesTest.tfrecords?raw=true</a></p>
 
-<p>Качаем чекпоинты и распаковываем:&nbsp;<a href="https://github.com/Dene33/notes-recognition/blob/master/checkpoints.zip">https://github.com/Dene33/notes-recognition/blob/master/checkpoints.zip?raw=true</a></p>
+<p>Качаем чекпоинты (это и есть обученная модель)&nbsp;и распаковываем:&nbsp;<a href="https://github.com/Dene33/notes-recognition/blob/master/checkpoints.zip">https://github.com/Dene33/notes-recognition/blob/master/checkpoints.zip?raw=true</a></p>
 
 <p>Запускаем:&nbsp;</p>
 
@@ -99,7 +99,7 @@ unzip checkpoints.zip -d checkpoints</p>
 
 <p><img alt="" src="https://i.imgur.com/bnBS1xb.png" style="height:60px; width:182px" /></p>
 
-<p>Ссылка на .tfrecord обученной&nbsp;модели:&nbsp;<a href="https://drive.google.com/file/d/1wd716Lg6Uz5Vxr6x-vEeoLKMb09YapPL/view?usp=sharing">https://drive.google.com/file/d/1wd716Lg6Uz5Vxr6x-vEeoLKMb09YapPL/view?usp=sharing</a></p>
+<p>Ссылка на .tfrecord для обучения модели:&nbsp;<a href="https://drive.google.com/file/d/1wd716Lg6Uz5Vxr6x-vEeoLKMb09YapPL/view?usp=sharing">https://drive.google.com/file/d/1wd716Lg6Uz5Vxr6x-vEeoLKMb09YapPL/view?usp=sharing</a></p>
 
 <h3><strong>TODO</strong></h3>
 
