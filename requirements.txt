@@ -1,3 +1,4 @@
 aocr
 tensorflow
 mido
+python-rtmidi
