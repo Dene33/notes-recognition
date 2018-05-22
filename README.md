@@ -65,7 +65,8 @@
   
 <blockquote>
 pip install mido
- </blockquote>
+pip install python-rtmidi
+</blockquote>
 
 <h3><strong>Быстрая установка и запуск на Линуксе</strong></h3>
 
